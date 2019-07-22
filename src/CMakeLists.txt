@@ -1,0 +1,2 @@
+add_subdirectory(algospot)
+add_subdirectory(swexpertacademy)
