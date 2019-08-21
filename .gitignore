@@ -99,3 +99,5 @@ _deps
 !.vscode/extensions.json
 
 # End of https://www.gitignore.io/api/c,c++,code,cmake
+
+/bin/
