@@ -100,4 +100,6 @@ _deps
 
 # End of https://www.gitignore.io/api/c,c++,code,cmake
 
-/bin/
+/src/solution*
+/src/input.txt
+
